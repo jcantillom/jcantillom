@@ -1,14 +1,12 @@
 <div align="center">
-  <!-- Banner animado -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=800&color=58A6FF&background=0D111700¢er=true&vCenter=true&width=700&lines=Juan+Cantillo;DevOps+Architect+%7C+Cloud+Solutions+Engineer;Infrastructure+as+Code+Specialist+%7C+SRE" alt="Juan Cantillo - DevOps Architect | Cloud Solutions Engineer | IaC Specialist | SRE" />
-
+  <div align="center">
+  <!-- Banner animado con tipografía mejorada -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&width=700&lines=Juan+Cantillo;DevOps+Architect+%7C+Cloud+Solutions+Engineer;Infrastructure+as+Code+Specialist+%7C+SRE" alt="Título profesional animado" />
   <!-- Badges de métricas -->
   <div style="margin: 15px 0;">
     <!-- Reemplaza {username} con tu usuario si usas un servicio dinámico, o actualiza manualmente -->
     <img src="https://komarev.com/ghpvc/?username=jcantillom&label=Profile%20Views&color=1e6feb&style=for-the-badge&logo=eye" alt="Profile Views"/>
-    <!-- Puedes añadir otros badges relevantes aquí si lo deseas, como GitHub followers, stars, etc. -->
-    <!-- Ejemplo estático: -->
-    <img src="https://img.shields.io/badge/Repositories-XX+-1e6feb?style=for-the-badge&logo=github" alt="Number of Repositories" />  <!-- Actualiza XX+ -->
+    <img src="https://img.shields.io/badge/Repositories-40+-1e6feb?style=for-the-badge&logo=github" alt="Number of Repositories" /> 
     <img src="https://img.shields.io/badge/Years%20Coding-5+-1e6feb?style=for-the-badge&logo=code" alt="Years of Coding Experience" />
   </div>
 </div>
@@ -125,33 +123,12 @@ Ingeniero DevOps/Cloud | Backend Developer, con 5+ años de experiencia, enfocad
 
 ## 🏅 Certificaciones Profesionales (Professional Certifications)
 
-<div align="center" style="margin: 20px 0;">
-
-<!-- Puedes usar una tabla o simplemente listar los badges -->
-<table style="width: auto; margin: auto; border: none; background: none;">
-  <tr>
-    <td align="center" style="border: none; padding: 5px;">
-      <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws" alt="AWS Certified Solutions Architect - Associate"/>
-    </td>
-    <td align="center" style="border: none; padding: 5px;">
-       <img src="https://img.shields.io/badge/Hashicorp-Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform" alt="HashiCorp Certified: Terraform Associate"/>
-    </td>
-  </tr>
-  <tr>
-     <td align="center" style="border: none; padding: 5px;">
-       <img src="https://img.shields.io/badge/Microsoft-Azure_Administrator_Associate-0078D4?style=for-the-badge&logo=microsoftazure" alt="Azure Administrator Associate"/> <!-- Asumiendo AZ-104, ajusta si es otra -->
-     </td>
-     <td align="center" style="border: none; padding: 5px;">
-       <img src="https://img.shields.io/badge/CNCF-CKA-326CE5?style=for-the-badge&logo=kubernetes" alt="Certified Kubernetes Administrator (CKA)"/>
-     </td>
-   </tr>
-   <!-- Añade más filas/celdas para otras certificaciones -->
-</table>
-
+<div align="center" style="margin: 2rem 0;">
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws" alt="AWS Certified"/>
 </div>
 
 ---
-
 <div align="center" style="font-size: smaller; color: #888;">
   Última actualización: <!--#TIMESTAMP#--> (Puedes usar un workflow de GitHub para actualizar esto automáticamente)
+</div>
 </div>
