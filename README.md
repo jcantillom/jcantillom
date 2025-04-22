@@ -1,71 +1,96 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=600&lines=Juan+Cantillo;DevOps+Architect+%7C+Cloud+Engineer+%7C+SRE;Infrastructure+as+Code+%7C+Scalable+Systems+%7C+Automation" alt="Título animado" />
-</div>
-
-<div align="center">
+  <!-- Banner animado con tipografía mejorada -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&width=700&lines=Juan+Cantillo;DevOps+Architect+%7C+Cloud+Solutions+Engineer;Infrastructure+as+Code+Specialist+%7C+SRE" alt="Título profesional animado" />
   
-  [![Visits Badge](https://komarev.com/ghpvc/?username=jcantillom&label=Profile+Views&color=0D1117&style=flat)](https://github.com/jcantillom)
-  [![Repos Badge](https://badges.pufler.dev/repos/jcantillom?color=0D1117&style=flat)](https://github.com/jcantillom?tab=repositories)
-  [![Years Badge](https://badges.pufler.dev/years/jcantillom?color=0D1117&style=flat)](https://github.com/jcantillom)
-  
+  <!-- Badges de métricas con diseño mejorado -->
+  <div style="margin: 15px 0;">
+    <img src="https://custom-icon-badges.demolab.com/badge/Profile_Views-{count}-1e6feb?style=for-the-badge&logo=eye" alt="Visitas" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Repositories-{count}-1e6feb?style=for-the-badge&logo=repo" alt="Repositorios" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Years_Coding-5+-1e6feb?style=for-the-badge&logo=calendar" alt="Experiencia" />
+  </div>
 </div>
 
 ---
 
-## 🔧 Tech Stack Matrix
+## 👨‍💻 Professional Profile
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>Cloud & DevOps</h3>
-      <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,kubernetes,docker,ansible,prometheus,grafana&perline=4" />
-      <p>
-        <img src="https://img.shields.io/badge/CI/CD-Expert-important?style=flat&logo=githubactions" />
-        <img src="https://img.shields.io/badge/IaC-Specialist-blueviolet?style=flat&logo=terraform" />
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h3>Backend Development</h3>
-      <img src="https://skillicons.dev/icons?i=python,go,nodejs,graphql,flask,django,postgres,mongodb&perline=4" />
-      <p>
-        <img src="https://img.shields.io/badge/API%20Design-REST%20%7C%20gRPC%20%7C%20GraphQL-informational?style=flat" />
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h3>Monitoring & Security</h3>
-      <img src="https://skillicons.dev/icons?i=prometheus,grafana,elastic,selenium,sentry,linux,nginx&perline=4" />
-      <p>
-        <img src="https://img.shields.io/badge/DevSecOps-Certified-success?style=flat&logo=gitlab" />
-      </p>
-    </td>
-  </tr>
-</table>
+<div style="background: #161B22; padding: 20px; border-radius: 10px; margin: 20px 0;">
+  <p style="font-size: 15px; line-height: 1.6; color: #C9D1D9;">
+    <strong style="color: #58A6FF;">Cloud & DevOps Specialist</strong> with expertise in designing and implementing scalable infrastructure solutions. Focused on:
+    
+    <ul style="color: #C9D1D9;">
+      <li>🏗️ Building <strong>resilient cloud architectures</strong> on AWS/Azure</li>
+      <li>⚡ Automating <strong>CI/CD pipelines</strong> for efficient deployments</li>
+      <li>🔒 Implementing <strong>security best practices</strong> in infrastructure</li>
+      <li>📈 Optimizing <strong>system performance</strong> and reliability</li>
+    </ul>
+    
+    Passionate about transforming development workflows through <strong>Infrastructure as Code</strong> and <strong>DevOps methodologies</strong>.
+  </p>
+</div>
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+## 🌐 Professional Network
+
+<div align="center" style="margin: 25px 0;">
+  [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancantillom/)
+  [![Email](https://img.shields.io/badge/Contact_via_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanjo0216@gmail.com)
+  [![Calendly](https://img.shields.io/badge/Schedule_Meeting-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/)
+</div>
+
+---
+
+## 🛠️ Core Competencies
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
+
+### **Cloud & DevOps**
+<div style="background: #161B22; padding: 15px; border-radius: 8px; border-left: 3px solid #1e6feb;">
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="https://skillicons.dev/icons?i=aws,azure,terraform,kubernetes,docker,ansible,jenkins,githubactions" alt="Cloud technologies" />
+  </div>
+  <div style="margin-top: 10px; text-align: center;">
+    <img src="https://img.shields.io/badge/Cloud_Architecture-Expert-important?style=flat-square" />
+    <img src="https://img.shields.io/badge/IaC-Specialist-blueviolet?style=flat-square" />
+  </div>
+</div>
+
+### **Backend Development**
+<div style="background: #161B22; padding: 15px; border-radius: 8px; border-left: 3px solid #1e6feb;">
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="https://skillicons.dev/icons?i=python,go,flask,fastapi,graphql,postgresql,mongodb,redis" alt="Backend technologies" />
+  </div>
+  <div style="margin-top: 10px; text-align: center;">
+    <img src="https://img.shields.io/badge/API_Development-Expert-informational?style=flat-square" />
+  </div>
+</div>
+
+### **Monitoring & Security**
+<div style="background: #161B22; padding: 15px; border-radius: 8px; border-left: 3px solid #1e6feb;">
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="https://skillicons.dev/icons?i=prometheus,grafana,linux,nginx" alt="Monitoring technologies" />
+  </div>
+  <div style="margin-top: 10px; text-align: center;">
+    <img src="https://img.shields.io/badge/DevSecOps-Certified-success?style=flat-square" />
+  </div>
+</div>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div style="background: #0D1117; padding: 20px; border-radius: 10px; margin: 30px 0;">
 
 <div align="center">
-  
-| ![Estadísticas Detalladas](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcantillom&theme=github_dark) | ![Lenguajes por Repositorio](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jcantillom&theme=github_dark) |
+
+| ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcantillom&theme=github_dark) | ![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jcantillom&theme=github_dark) |
 |:-:|:-:|
-| ![Lenguajes Principales](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jcantillom&theme=github_dark) | ![Actividad GitHub](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jcantillom&theme=github_dark&utcOffset=-5) |
+| ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jcantillom&theme=github_dark) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jcantillom&theme=github_dark) |
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jcantillom&theme=github-dark&hide_border=true&custom_title=Commit%20Activity%20Heatmap&area=true&point=58A6FF)
-
-</div>
-
----
-
-## 🏆 Top Projects
-
-<div align="center">
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-
-[![GMF Process Response](https://github-readme-stats.vercel.app/api/pin/?username=jcantillom&repo=gmf_process_response&theme=dark&show_owner=true&bg_color=0D1117&border_color=58A6FF)](https://github.com/jcantillom/gmf_process_response)
-[![Cloud Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=jcantillom&repo=cloud-toolkit&theme=dark&show_owner=true&bg_color=0D1117&border_color=58A6FF)](https://github.com/jcantillom/cloud-toolkit)
-[![DevOps Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=jcantillom&repo=devops-pipeline&theme=dark&show_owner=true&bg_color=0D1117&border_color=58A6FF)](https://github.com/jcantillom/devops-pipeline)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jcantillom&theme=github-dark&hide_border=true&area=true&point=58A6FF&line=1F6FEB&custom_title=CONTRIBUTION+ACTIVITY)
 
 </div>
 
@@ -73,24 +98,24 @@
 
 ---
 
-## 🏅 Certifications & Achievements
+## 🏆 Featured Projects
 
-<div align="center">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 20px; margin: 30px 0;">
 
-| AWS Certified | Kubernetes Certified | Terraform Associate |
-|--------------|---------------------|---------------------|
-| ![AWS](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws) | ![K8s](https://img.shields.io/badge/Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes) | ![Terraform](https://img.shields.io/badge/Hashicorp%20Certified-7B42BC?style=for-the-badge&logo=terraform) |
+[![GMF Process Response](https://github-readme-stats.vercel.app/api/pin/?username=jcantillom&repo=gmf_process_response&theme=dark&show_owner=true&bg_color=161B22&border_color=1F6FEB&title_color=58A6FF)](https://github.com/jcantillom/gmf_process_response)
+[![Cloud Automation Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=jcantillom&repo=terraform-aws-hcis&theme=dark&show_owner=true&bg_color=161B22&border_color=1F6FEB&title_color=58A6FF)](https://github.com/jcantillom/terraform-aws-hcis)
 
 </div>
 
 ---
 
-<div align="center">
+## 🏅 Professional Certifications
 
-```mermaid
-pie
-    title Weekly Development Breakdown
-    "Infrastructure Code" : 45
-    "Backend Development" : 30
-    "CI/CD Pipelines" : 15
-    "Documentation" : 10
+<div align="center" style="margin: 30px 0;">
+
+| Cloud Certifications | DevOps Certifications |
+|----------------------|-----------------------|
+| ![AWS SA](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws) | ![Terraform](https://img.shields.io/badge/Hashicorp-Certified-7B42BC?style=for-the-badge&logo=terraform) |
+| ![Azure](https://img.shields.io/badge/Microsoft-Azure_Expert-0078D4?style=for-the-badge&logo=microsoftazure) | ![K8s](https://img.shields.io/badge/CNCF-CKA_Certified-326CE5?style=for-the-badge&logo=kubernetes) |
+
+</div>
